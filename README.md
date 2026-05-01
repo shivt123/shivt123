@@ -1,10 +1,10 @@
 # Hi, I'm Shivani 👋
 
-PM who builds. Not wireframes — actual working products, shipped and live.
+PM who builds. Not wireframes but actual working products, shipped and live.
 
 CS engineering background, MBA from IIM, 6 years across data, product, and growth. I've shipped connected-vehicle safety features to 16M+ Mercedes-Benz users, cut account research time from 2 hours to 5 minutes at an AI startup, and built a programmatic GTM engine that generated 1,000+ targeted assets across 10 industries.
 
-These days I spend a lot of time prototyping with LLMs — not prompting, actually building with them. If I see a problem that bugs me, I'll have a working version up by the weekend.
+These days I spend a lot of time prototyping with LLMs; not prompting, actually building with them. If I see a problem that bugs me, I'll have a working version up by the weekend.
 
 ---
 
